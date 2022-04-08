@@ -10,6 +10,6 @@
   "license": "GPL",
   "dependencies": {
     "redis": "~0.10.3",
-    "async": "~0.9.0"
+    "async": "~3.2.2"
   }
 }
